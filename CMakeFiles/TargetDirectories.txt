@@ -1,3 +1,0 @@
-/home/nattie/pub/passgen/CMakeFiles/passgen.dir
-/home/nattie/pub/passgen/CMakeFiles/edit_cache.dir
-/home/nattie/pub/passgen/CMakeFiles/rebuild_cache.dir
